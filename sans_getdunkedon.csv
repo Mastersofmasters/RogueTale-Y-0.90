@@ -2,9 +2,10 @@
 0,HeartTeleport,320,324,,
 0,HeartMode,0,,,
 0,SansHead,ClosedEyes,,,
-0,SansText,...,
+0,SansText,How are you here?,
 0,SansTorso,Shrug,,,
 0,SetMaxHp,67,
 0,DamagePlayer,-150,,
 2,EndAttack,,,,
+
 
